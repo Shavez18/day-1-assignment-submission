@@ -10,7 +10,7 @@ while(b <= n)
 }
 
 Solution: T(n) = O(n)
-Since it is increasing linearly
+Since it is increasing linearly time complexity 
 
 Question-2:
 Write the output for the following recursive code snippet for n = 3:
@@ -43,4 +43,4 @@ int main()
 }
 
 //Output:
-123
+321123
